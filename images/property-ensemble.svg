@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,41 +75,79 @@
        cx="127.37798"
        id="circle817"
        style="opacity:1;fill:#28ff00;fill-opacity:0.29411765;fill-rule:nonzero;stroke:none;stroke-width:1.69999993;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot819"
+    <g
+       aria-label="PK"
+       transform="matrix(0.26458333,0,0,0.26458333,38.175595,52.916666)"
        style="font-style:normal;font-weight:normal;font-size:18.70000076px;line-height:1.20000005;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,38.175595,52.916666)"><flowRegion
-         id="flowRegion821"><rect
-           id="rect823"
-           width="105.71429"
-           height="70"
-           x="104.28571"
-           y="196.8054" /></flowRegion><flowPara
-         id="flowPara825"
-         style="font-size:42.66666794px">PK</flowPara></flowRoot>    <flowRoot
+       id="flowRoot819">
+      <path
+         d="M 108.20182,202.38386 H 121.51432 Q 127.45182,202.38386 130.61849,205.02969 Q 133.80599,207.65469 133.80599,212.52969 Q 133.80599,217.42552 130.61849,220.07136 Q 127.45182,222.69636 121.51432,222.69636 H 116.22266 V 233.48802 H 108.20182 Z M 116.22266,208.19636 V 216.88386 H 120.66016 Q 122.99349,216.88386 124.26432,215.75886 Q 125.53516,214.61302 125.53516,212.52969 Q 125.53516,210.44636 124.26432,209.32136 Q 122.99349,208.19636 120.66016,208.19636 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path857" />
+      <path
+         d="M 139.45182,202.38386 H 147.47266 V 213.73802 L 159.03516,202.38386 H 168.34766 L 153.36849,217.11302 L 169.88932,233.48802 H 159.84766 L 147.47266,221.23802 V 233.48802 H 139.45182 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path859" />
+    </g>
+    <g
+       aria-label="FK"
        transform="matrix(0.26458333,0,0,0.26458333,95.779175,52.53869)"
        style="font-style:normal;font-weight:normal;font-size:18.70000076px;line-height:1.20000005;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot833"
-       xml:space="preserve"><flowRegion
-         id="flowRegion829"><rect
-           y="196.8054"
-           x="104.28571"
-           height="70"
-           width="105.71429"
-           id="rect827" /></flowRegion><flowPara
-         style="font-size:42.66666794px"
-         id="flowPara831">FK</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,38.175595,121.70835)"
+       id="flowRoot833">
+      <path
+         d="M 108.20182,202.38386 H 129.84766 V 208.44636 H 116.22266 V 214.23802 H 129.03516 V 220.30052 H 116.22266 V 233.48802 H 108.20182 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path862" />
+      <path
+         d="M 137.36849,202.38386 H 145.38932 V 213.73802 L 156.95182,202.38386 H 166.26433 L 151.28516,217.11302 L 167.80599,233.48802 H 157.76432 L 145.38932,221.23802 V 233.48802 H 137.36849 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path864" />
+    </g>
+    <g
+       aria-label="PROPERTIES"
+       transform="matrix(0.26458333,0,0,0.26458333,31.722201,121.70835)"
        style="font-style:normal;font-weight:normal;font-size:18.70000076px;line-height:1.20000005;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot843"
-       xml:space="preserve"><flowRegion
-         id="flowRegion839"><rect
-           y="196.8054"
-           x="104.28571"
-           height="84.285728"
-           width="340"
-           id="rect837" /></flowRegion><flowPara
-         style="font-size:42.66666794px"
-         id="flowPara841">PROPERTIES</flowPara></flowRoot>  </g>
+       id="flowRoot843">
+      <path
+         d="M 108.20182,202.38386 H 121.51432 Q 127.45182,202.38386 130.61849,205.02969 Q 133.80599,207.65469 133.80599,212.52969 Q 133.80599,217.42552 130.61849,220.07136 Q 127.45182,222.69636 121.51432,222.69636 H 116.22266 V 233.48802 H 108.20182 Z M 116.22266,208.19636 V 216.88386 H 120.66016 Q 122.99349,216.88386 124.26432,215.75886 Q 125.53516,214.61302 125.53516,212.52969 Q 125.53516,210.44636 124.26432,209.32136 Q 122.99349,208.19636 120.66016,208.19636 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path836" />
+      <path
+         d="M 150.84766,216.17552 Q 153.36849,216.17552 154.45182,215.23802 Q 155.55599,214.30052 155.55599,212.15469 Q 155.55599,210.02969 154.45182,209.11302 Q 153.36849,208.19636 150.84766,208.19636 H 147.47266 V 216.17552 Z M 147.47266,221.71719 V 233.48802 H 139.45182 V 202.38386 H 151.70182 Q 157.84766,202.38386 160.70182,204.44636 Q 163.57682,206.50886 163.57682,210.96719 Q 163.57682,214.05052 162.07682,216.02969 Q 160.59766,218.00886 157.59766,218.94636 Q 159.24349,219.32136 160.53516,220.65469 Q 161.84766,221.96719 163.18099,224.65469 L 167.53516,233.48802 H 158.99349 L 155.20182,225.75886 Q 154.05599,223.42552 152.86849,222.57136 Q 151.70182,221.71719 149.74349,221.71719 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path838" />
+      <path
+         d="M 186.49349,207.63386 Q 182.82683,207.63386 180.80599,210.34219 Q 178.78516,213.05052 178.78516,217.96719 Q 178.78516,222.86302 180.80599,225.57136 Q 182.82683,228.27969 186.49349,228.27969 Q 190.18099,228.27969 192.20183,225.57136 Q 194.22266,222.86302 194.22266,217.96719 Q 194.22266,213.05052 192.20183,210.34219 Q 190.18099,207.63386 186.49349,207.63386 Z M 186.49349,201.82136 Q 193.99349,201.82136 198.24349,206.11302 Q 202.49349,210.40469 202.49349,217.96719 Q 202.49349,225.50886 198.24349,229.80052 Q 193.99349,234.09219 186.49349,234.09219 Q 179.01433,234.09219 174.74349,229.80052 Q 170.49349,225.50886 170.49349,217.96719 Q 170.49349,210.40469 174.74349,206.11302 Q 179.01433,201.82136 186.49349,201.82136 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path840" />
+      <path
+         d="M 208.53516,202.38386 H 221.84766 Q 227.78516,202.38386 230.95183,205.02969 Q 234.13933,207.65469 234.13933,212.52969 Q 234.13933,217.42552 230.95183,220.07136 Q 227.78516,222.69636 221.84766,222.69636 H 216.55599 V 233.48802 H 208.53516 Z M 216.55599,208.19636 V 216.88386 H 220.99349 Q 223.32683,216.88386 224.59766,215.75886 Q 225.86849,214.61302 225.86849,212.52969 Q 225.86849,210.44636 224.59766,209.32136 Q 223.32683,208.19636 220.99349,208.19636 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path842" />
+      <path
+         d="M 239.78517,202.38386 H 261.431 V 208.44636 H 247.806 V 214.23802 H 260.6185 V 220.30052 H 247.806 V 227.42552 H 261.88933 V 233.48802 H 239.78517 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path844" />
+      <path
+         d="M 280.34766,216.17552 Q 282.86849,216.17552 283.95182,215.23802 Q 285.05599,214.30052 285.05599,212.15469 Q 285.05599,210.02969 283.95182,209.11302 Q 282.86849,208.19636 280.34766,208.19636 H 276.97266 V 216.17552 Z M 276.97266,221.71719 V 233.48802 H 268.95182 V 202.38386 H 281.20182 Q 287.34766,202.38386 290.20182,204.44636 Q 293.07682,206.50886 293.07682,210.96719 Q 293.07682,214.05052 291.57682,216.02969 Q 290.09766,218.00886 287.09766,218.94636 Q 288.74349,219.32136 290.03516,220.65469 Q 291.34766,221.96719 292.68099,224.65469 L 297.03516,233.48802 H 288.49349 L 284.70182,225.75886 Q 283.55599,223.42552 282.36849,222.57136 Q 281.20182,221.71719 279.24349,221.71719 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path846" />
+      <path
+         d="M 296.16016,202.38386 H 324.82683 V 208.44636 H 314.51433 V 233.48802 H 306.49349 V 208.44636 H 296.16016 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path848" />
+      <path
+         d="M 328.95182,202.38386 H 336.97266 V 233.48802 H 328.95182 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path850" />
+      <path
+         d="M 344.86849,202.38386 H 366.51433 V 208.44636 H 352.88933 V 214.23802 H 365.70183 V 220.30052 H 352.88933 V 227.42552 H 366.97266 V 233.48802 H 344.86849 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path852" />
+      <path
+         d="M 395.681,203.36302 V 209.94636 Q 393.1185,208.80052 390.681,208.21719 Q 388.2435,207.63386 386.07683,207.63386 Q 383.20183,207.63386 381.82683,208.42552 Q 380.45183,209.21719 380.45183,210.88386 Q 380.45183,212.13386 381.3685,212.84219 Q 382.306,213.52969 384.7435,214.02969 L 388.16017,214.71719 Q 393.34767,215.75886 395.53517,217.88386 Q 397.72267,220.00886 397.72267,223.92552 Q 397.72267,229.07136 394.66017,231.59219 Q 391.6185,234.09219 385.34767,234.09219 Q 382.38933,234.09219 379.41017,233.52969 Q 376.431,232.96719 373.45183,231.86302 V 225.09219 Q 376.431,226.67552 379.20183,227.48802 Q 381.9935,228.27969 384.57683,228.27969 Q 387.20183,228.27969 388.59767,227.40469 Q 389.9935,226.52969 389.9935,224.90469 Q 389.9935,223.44636 389.03517,222.65469 Q 388.09767,221.86302 385.26433,221.23802 L 382.16017,220.55052 Q 377.4935,219.55052 375.32683,217.36302 Q 373.181,215.17552 373.181,211.46719 Q 373.181,206.82136 376.181,204.32136 Q 379.181,201.82136 384.806,201.82136 Q 387.3685,201.82136 390.07683,202.21719 Q 392.78517,202.59219 395.681,203.36302 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="path854" />
+    </g>
+  </g>
 </svg>
